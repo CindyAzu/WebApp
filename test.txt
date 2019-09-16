@@ -1,2 +1,5 @@
-this is my first commit in bash,
-this is laptop edit commit
+this is my first commit in bash
+
+and another commit was done
+
+adding from laptop

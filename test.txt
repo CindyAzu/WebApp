@@ -1,3 +1,9 @@
 this is my first commit in bash
 
+<<<<<<< HEAD
 and another commit was done
+=======
+and another commit was done
+
+adding from laptop
+>>>>>>> b3d61c407fbb50dbab8bfe17d8980fa780b9b76a
